@@ -7,10 +7,10 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções criativas.
-- 🎓 Estudando **Desenvolvimento de Software Multiplataforma** (1º semestre) na **Fatec Zona Leste**.
-- 🎓 Formação técnica: **Desenvolvimento de Sistemas** (ETEC) – 1º módulo completo, atualmente no 2º semestre.
-- 🌱 Aprendendo mais sobre **MySQL Workbench, JavaScript e Python**.
-- 💻 Conhecimentos em **HTML5, CSS, Java (NetBeans e Eclipse)** e noções em **PHP**.
+- 🎓 Estudando **Desenvolvimento de Software Multiplataforma** (2º semestre) na **Fatec Zona Leste**.
+- 🎓 Formação técnica: **Desenvolvimento de Sistemas** (ETEC) – 2º módulo completo, atualmente no 3º semestre.
+- 🌱 Aprendendo mais sobre **JavaScript e Python**.
+- 💻 Conhecimentos em **HTML5, CSS,  SQL, Java (NetBeans e Eclipse)** e noções em **PHP, C#**.
 - 🌍 Inglês em nível **básico / intermediário (A2 → B1)**.
 - 🎯 Objetivo: evoluir como desenvolvedora fullstack e contribuir em projetos reais.
 
