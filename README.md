@@ -1,63 +1,155 @@
-# Olá, eu sou a Deyse 👋
+<!-- Banner -->
 
-![Visualizações](https://komarev.com/ghpvc/?username=deysemedeiros&color=006bed)
+<h1 align="center">Oi, eu sou a Deyse 👩‍💻</h1>
+<h3 align="center">Estudante de Desenvolvimento de Software Multiplataforma | Futura Full Stack 🚀</h3>
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
-
-## Sobre mim
-
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções criativas.
-- 🎓 Estudando **Desenvolvimento de Software Multiplataforma** (2º semestre) na **Fatec Zona Leste**.
-- 🎓 Formação técnica: **Desenvolvimento de Sistemas** (ETEC) – 2º módulo completo, atualmente no 3º semestre.
-- 🌱 Aprendendo mais sobre **JavaScript e Python**.
-- 💻 Conhecimentos em **HTML5, CSS,  SQL, Java (NetBeans e Eclipse)** e noções em **PHP, C#**.
-- 🌍 Inglês em nível **básico / intermediário (A2 → B1)**.
-- 🎯 Objetivo: evoluir como desenvolvedora fullstack e contribuir em projetos reais.
-
----
-
-## 🚀 Tecnologias que uso/aprendo
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-</div>
-
----
-
-## 📊 Estatísticas
-
-<a href="https://github.com/deysemedeiros">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deysemedeiros&theme=dracula&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deysemedeiros&layout=compact&langs_count=7&theme=dracula"/>
-</a>
-
----
-
-## 🌟 Projetos em destaque
-*(Em construção, mas aqui você pode listar seus repositórios preferidos no futuro)*  
-- [Meu Portfólio]() - Projeto em HTML/CSS/JS  
-- [Sistema de Cadastro]() - Projeto em Java  
-
----
-
-## 🎉 Curiosidades
-
-- Amo aprender coisas novas todos os dias.  
-- Gosto de desafios que me façam crescer.  
-- Tenho interesse em contribuir em projetos open-source.  
-
----
-
-## 🌍 Onde me encontrar
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/deyse-medeiros-soares-4907012a5/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-  <a href="mailto:deysebmsoares@gmaiil.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
-  <a href="https://github.com/deysemedeiros"><img src="https://img.icons8.com/material-outlined/48/000000/github.png"/></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Java-orange?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-Frontend-red?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-Style-blue?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-Database-informational?style=flat&logo=mysql&logoColor=white"/>
 </p>
+
+---
+
+# 📚 Sobre mim
+
+Sou estudante de **Desenvolvimento de Software Multiplataforma na FATEC Zona Leste** e também faço o curso técnico em **Desenvolvimento de Sistemas na ETEC**.
+
+Aqui no GitHub compartilho **projetos acadêmicos, estudos e experimentos com programação** enquanto evoluo minhas habilidades como desenvolvedora.
+
+🎯 Meu objetivo é conquistar minha **primeira oportunidade na área de tecnologia** e evoluir como **desenvolvedora Full Stack**.
+
+---
+
+# 🧰 Tecnologias que estudo
+
+<table>
+<thead>
+<tr>
+<th align="center">💬 Linguagens</th>
+<th align="center">🌐 Front-end</th>
+<th align="center">⚙️ Back-end</th>
+<th align="center">🗄️ Banco de Dados</th>
+<th align="center">🛠️ Ferramentas</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/-HTML5-red?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3&logoColor=white"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/-SQL-blue?style=flat"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat"/>
+<img src="https://img.shields.io/badge/-Eclipse-purple?style=flat"/>
+
+</td>
+
+</tr>
+</tbody>
+</table>
+
+---
+
+# 📈 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deysemedeiros&langs_count=6&theme=dark)
+
+---
+
+# 🚀 Projetos em destaque
+
+### 💳 Sistema Bancário em Java
+
+Projeto acadêmico que simula operações bancárias utilizando **Programação Orientada a Objetos**.
+
+✨ Funcionalidades do sistema:
+
+- Criar conta
+- Sacar dinheiro
+- Depositar
+- Transferência entre contas
+- Visualização de dados da conta
+- Interface com menu interativo
+
+🛠️ Tecnologias utilizadas
+
+<img src="https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/-POO-blue?style=flat"/>
+<img src="https://img.shields.io/badge/-OOP-green?style=flat"/>
+
+---
+
+# 🔍 Boas práticas que busco aplicar
+
+🧱 **Programação Orientada a Objetos (POO)**  
+Uso classes, encapsulamento e organização modular para estruturar melhor o código.
+
+🛡️ **Tratamento de erros**  
+Utilizo validações e verificações para evitar erros e melhorar a experiência do usuário.
+
+🧼 **Código organizado**  
+Busco manter nomes claros, comentários e organização de arquivos para facilitar manutenção.
+
+🧭 **Lógica e algoritmos**  
+Treino constantemente resolução de problemas e implementação de algoritmos.
+
+---
+
+# 🌱 Em constante evolução
+
+Atualmente estou aprofundando meus estudos em:
+
+- Java
+- JavaScript
+- Python
+- Estrutura de Dados
+- Desenvolvimento Web
+
+---
+
+# 📫 Contato
+
+💼 LinkedIn  
+https://www.linkedin.com/in/deyse-medeiros-soares-4907012a5/
+
+📧 Email  
+deysebmsoares@gmail.com
+
+🐙 GitHub  
+https://github.com/deysemedeiros
+
+---
