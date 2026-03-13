@@ -1,14 +1,12 @@
-<!-- Banner -->
-
 <h1 align="center">Oi, eu sou a Deyse 👩‍💻</h1>
-<h3 align="center">Estudante de Desenvolvimento de Software Multiplataforma | Futura Full Stack 🚀</h3>
+<h3 align="center">Estudante de Desenvolvimento de Software Multiplataforma | Futura Desenvolvedora Full Stack 🚀</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Java-orange?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Code-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-Frontend-red?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-Style-blue?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code-CSharp-239120?style=flat&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-Database-informational?style=flat&logo=mysql&logoColor=white"/>
 </p>
 
@@ -16,11 +14,15 @@
 
 # 📚 Sobre mim
 
-Sou estudante de **Desenvolvimento de Software Multiplataforma na FATEC Zona Leste** e também faço o curso técnico em **Desenvolvimento de Sistemas na ETEC**.
+🎓 Estudante de **Desenvolvimento de Software Multiplataforma — FATEC Zona Leste**
 
-Aqui no GitHub compartilho **projetos acadêmicos, estudos e experimentos com programação** enquanto evoluo minhas habilidades como desenvolvedora.
+🎓 Técnica em **Desenvolvimento de Sistemas — ETEC**
 
-🎯 Meu objetivo é conquistar minha **primeira oportunidade na área de tecnologia** e evoluir como **desenvolvedora Full Stack**.
+💻 Aqui no GitHub compartilho **projetos acadêmicos, estudos e experimentos** enquanto evoluo minhas habilidades em programação.
+
+🎯 Objetivo: conquistar minha **primeira oportunidade na área de tecnologia** e evoluir como **desenvolvedora Full Stack**.
+
+🌍 Inglês nível **A2 → B1**
 
 ---
 
@@ -31,9 +33,9 @@ Aqui no GitHub compartilho **projetos acadêmicos, estudos e experimentos com pr
 <tr>
 <th align="center">💬 Linguagens</th>
 <th align="center">🌐 Front-end</th>
-<th align="center">⚙️ Back-end</th>
+<th align="center">🔧 Back-end</th>
 <th align="center">🗄️ Banco de Dados</th>
-<th align="center">🛠️ Ferramentas</th>
+<th align="center">⚙️ Ferramentas</th>
 </tr>
 </thead>
 
@@ -44,7 +46,9 @@ Aqui no GitHub compartilho **projetos acadêmicos, estudos e experimentos com pr
 
 <img src="https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
 
 </td>
 
@@ -58,6 +62,7 @@ Aqui no GitHub compartilho **projetos acadêmicos, estudos e experimentos com pr
 <td align="center">
 
 <img src="https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/-.NET_MAUI-512BD4?style=flat&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white"/>
 
 </td>
@@ -75,6 +80,7 @@ Aqui no GitHub compartilho **projetos acadêmicos, estudos e experimentos com pr
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat"/>
 <img src="https://img.shields.io/badge/-Eclipse-purple?style=flat"/>
+<img src="https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white"/>
 
 </td>
 
@@ -84,72 +90,109 @@ Aqui no GitHub compartilho **projetos acadêmicos, estudos e experimentos com pr
 
 ---
 
-# 📈 GitHub Stats
+# 📊 Estatísticas do GitHub
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deysemedeiros&langs_count=6&theme=dark)
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=deysemedeiros&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deysemedeiros&layout=compact&langs_count=6&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 Sequência de contribuições
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=deysemedeiros&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 Conquistas no GitHub
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=deysemedeiros&theme=tokyonight&row=1&column=6"/>
+
+</p>
 
 ---
 
 # 🚀 Projetos em destaque
 
-### 💳 Sistema Bancário em Java
+## 🛒 App Minhas Compras (MAUI)
 
-Projeto acadêmico que simula operações bancárias utilizando **Programação Orientada a Objetos**.
+Aplicativo mobile desenvolvido com **.NET MAUI** para gerenciamento de listas de compras.
 
-✨ Funcionalidades do sistema:
+Funcionalidades:
 
-- Criar conta
-- Sacar dinheiro
-- Depositar
-- Transferência entre contas
-- Visualização de dados da conta
-- Interface com menu interativo
-
-🛠️ Tecnologias utilizadas
-
-<img src="https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/-POO-blue?style=flat"/>
-<img src="https://img.shields.io/badge/-OOP-green?style=flat"/>
+* Criar listas de compras
+* Adicionar produtos
+* Marcar itens como comprados
+* Organização simples de itens
 
 ---
 
-# 🔍 Boas práticas que busco aplicar
+## 🌐 Site do Projeto Integrador — FATEC
 
-🧱 **Programação Orientada a Objetos (POO)**  
-Uso classes, encapsulamento e organização modular para estruturar melhor o código.
+Projeto desenvolvido em grupo durante o **Projeto Integrador da FATEC**.
 
-🛡️ **Tratamento de erros**  
-Utilizo validações e verificações para evitar erros e melhorar a experiência do usuário.
+Características:
 
-🧼 **Código organizado**  
-Busco manter nomes claros, comentários e organização de arquivos para facilitar manutenção.
+* Estrutura de páginas web
+* Layout responsivo
+* Navegação entre páginas
+* Desenvolvimento colaborativo
 
-🧭 **Lógica e algoritmos**  
-Treino constantemente resolução de problemas e implementação de algoritmos.
+Tecnologias utilizadas:
+
+HTML • CSS • JavaScript
 
 ---
 
-# 🌱 Em constante evolução
+## 💳 Sistema Bancário em Java
 
-Atualmente estou aprofundando meus estudos em:
+Sistema que simula operações de um banco utilizando **Programação Orientada a Objetos**.
 
-- Java
-- JavaScript
-- Python
-- Estrutura de Dados
-- Desenvolvimento Web
+Funcionalidades:
+
+* Criar conta
+* Sacar dinheiro
+* Depositar valores
+* Transferência entre contas
+* Consulta de dados da conta
+
+Tecnologias:
+
+Java • POO
+
+---
+
+# 🌱 Atualmente estudando
+
+* Java
+* TypeScript
+* Python
+* Estrutura de Dados
+* Desenvolvimento Web
 
 ---
 
 # 📫 Contato
 
-💼 LinkedIn  
+💼 LinkedIn
 https://www.linkedin.com/in/deyse-medeiros-soares-4907012a5/
 
-📧 Email  
-deysebmsoares@gmail.com
+📧 Email
+[deysebmsoares@gmail.com](mailto:deysebmsoares@gmail.com)
 
-🐙 GitHub  
+🐙 GitHub
 https://github.com/deysemedeiros
 
 ---
+
+⭐ Sempre aprendendo algo novo e evoluindo como desenvolvedora.
